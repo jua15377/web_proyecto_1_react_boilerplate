@@ -1,9 +1,14 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import './style.css'
 
-const element = <h1>HELLO FROM JSX </h1>
+class App extends React.Component{
+	render(){
+		return(
+			<h1>HelloW</h1>
+		)
+	}
+	
+}
 
-ReactDOM.render(
-	element,
-	document.getElementById('root')
-)
+ReactDOM.render( <App/>, document.getElementById('index'))

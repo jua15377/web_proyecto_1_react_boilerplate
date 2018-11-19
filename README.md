@@ -1,3 +1,1 @@
-# React Boilerplate
-
-A boilerplate to be implemented in any react project
+# web_lab_6_Memoria-React

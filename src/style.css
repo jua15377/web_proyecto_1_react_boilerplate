@@ -8,9 +8,14 @@
     text-align: end;
     padding: 10px;
 }
+/* load image from the resourcces */
+body{
+    background-image: url("./assets/wood.jpg");
+}
 
 .index{
     margin-left: 40%;
+
 }
 
 .keys{
@@ -46,6 +51,7 @@ button.equals{
 h1{
     font-family:  Helvetica;
     font-size: 50px;
+    color: white;
 }
 
 .calculator{

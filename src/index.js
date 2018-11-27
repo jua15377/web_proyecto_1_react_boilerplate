@@ -121,7 +121,7 @@ class App extends React.Component {
     console.log(this.state.valInt)
     console.log(this.state.valStr)
     return (
-      <div className="index">
+      <div className="index" >
         <h1>Calculator</h1>
         <div className="calculator">
           <div className="display"> {this.state.valStr} </div>

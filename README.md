@@ -10,7 +10,7 @@ Additionally, it includes an example of a calculator implemented in ReactJs, and
 3. [ Usage. ](#usage)
 4. [ Tests. ](#test)
 5. [ Linting. ](#lint)
-6. [ Credits. ](#credit)
+6. [ Autor. ](#autor)
 
 
 
@@ -80,6 +80,6 @@ npm run lint-fix
 ```
 
 Any of the previos scripts can be found and customizate on package.json
-<a name="credit"></a>
+<a name="autor"></a>
 ## Author
 [Jonnatha Juarez (15377)](jua15377@uvg.edu.gt)
